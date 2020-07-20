@@ -17,3 +17,14 @@ Write a python script with the above name which does the following:
 Task:
 
 Given an integer n, write a python function which returns a times table grid for all the integers between 1 and n. The grid should be separated by tabs and new lines
+
+## Challenge 3
+[Link to code](Challenges/test_string.py)
+
+Task:
+
+I have a function called string_gen() that will return a random 5-character-long string of lowercase letters. Write some tests for this function. 
+To reiterate, the output should always be:
+* a string
+*	5 characters long
+*	comprised of lowercase letters

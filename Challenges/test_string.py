@@ -9,4 +9,4 @@ def test_string_len():
 
 def test_string_lowercase():
     string = string_gen()
-    assert string == string.lower()
+    assert string.islower()

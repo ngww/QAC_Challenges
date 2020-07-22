@@ -35,3 +35,15 @@ Task:\
 Define a class named Rectangle, which can be constructed by a length and width.\
 The Rectangle class needs to have a method that can compute area.\
 Finally, write a unit test to test this method.
+
+## Challenge 5
+[Link to function code](Challenges/22072020/alpha_words)
+[Link to test code](Challenges/22072020/test_alpha)
+
+Task:\
+Write a function that accepts a sequence of whitespace separated words as a string input, sorts each item alphanumerically and removes any duplicate items, then returns the result as a string. Write a test for this function.\
+For example:
+Suppose the following input is supplied to the program: hello world and practice makes perfect and hello world again\
+Then, the output should be: again and hello makes perfect practice world
+
+ 

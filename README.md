@@ -37,8 +37,8 @@ The Rectangle class needs to have a method that can compute area.\
 Finally, write a unit test to test this method.
 
 ## Challenge 5
-[Link to function code](Challenges/22072020/alpha_words)
-[Link to test code](Challenges/22072020/test_alpha)
+[Link to function code](Challenges/22072020/alpha_words.py)
+[Link to test code](Challenges/22072020/test_alpha.py)
 
 Task:\
 Write a function that accepts a sequence of whitespace separated words as a string input, sorts each item alphanumerically and removes any duplicate items, then returns the result as a string. Write a test for this function.\
@@ -46,4 +46,11 @@ For example:
 Suppose the following input is supplied to the program: hello world and practice makes perfect and hello world again\
 Then, the output should be: again and hello makes perfect practice world
 
- 
+## Challenge 6
+[Link to function code](Challenges/23072020/addition.py)
+[Link to test code](Challenges/23072020/test_addition.py)
+
+Task:\
+Write a function that computes the value of a+aa+aaa+aaaa with a given digit as the value of a.\
+Suppose the following input is supplied to the program: 9 Then, the output should be: 11106 (i.e. 9+99+999+9999)\
+Write a test for this function.

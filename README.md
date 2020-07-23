@@ -37,7 +37,7 @@ The Rectangle class needs to have a method that can compute area.\
 Finally, write a unit test to test this method.
 
 ## Challenge 5
-[Link to function code](Challenges/22072020/alpha_words.py)
+[Link to function code](Challenges/22072020/alpha_words.py)\
 [Link to test code](Challenges/22072020/test_alpha.py)
 
 Task:\
@@ -47,7 +47,7 @@ Suppose the following input is supplied to the program: hello world and practice
 Then, the output should be: again and hello makes perfect practice world
 
 ## Challenge 6
-[Link to function code](Challenges/23072020/addition.py)
+[Link to function code](Challenges/23072020/addition.py)\
 [Link to test code](Challenges/23072020/test_addition.py)
 
 Task:\

@@ -54,3 +54,13 @@ Task:\
 Write a function that computes the value of a+aa+aaa+aaaa with a given digit as the value of a.\
 Suppose the following input is supplied to the program: 9 Then, the output should be: 11106 (i.e. 9+99+999+9999)\
 Write a test for this function.
+
+## Challenge 7
+[Link to function code](Challenges/sevennotfive/sevennotfive.py)\
+[Link to test code](Challenges/sevennotfive/test_sevennotfive.py)
+
+Task:\
+Write a program to:
+* find all numbers, between 2000 and 3200 (both included), that are divisible by 7, but are not a multiple of 5
+
+The numbers obtained should be returned on a single line. seperated by commas.
